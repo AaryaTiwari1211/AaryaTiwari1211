@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AaryaTiwari1211
+- 👋 Hi, I’m Aarya Tiwari
 - 👀 I’m interested in a lot of things
-- 🌱 I’m currently learning C++ Python HTML and CSS
+- 🌱 I’m currently learning React JS
 - 📫 You can reach me via mail at aarya.tiwari@somaiya.edu
 
 <!---
