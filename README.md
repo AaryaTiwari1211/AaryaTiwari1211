@@ -1,10 +1,7 @@
 ### About Me  
 ### <div align="center">I'm Aarya, a full-stack developer, I am currently indulging towards React JS and modern frontend development using Material UI.</div>  
-  
 
-<!-- https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fgifs%2Fsearch%2Fanime&psig=AOvVaw3fVScG_q5zsuzXTtcWTMVm&ust=1677255236972000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPjS7uaErP0CFQAAAAAdAAAAABAE -->
 
-![alt-text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fgifs%2Fsearch%2Fanime&psig=AOvVaw3fVScG_q5zsuzXTtcWTMVm&ust=1677255236972000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPjS7uaErP0CFQAAAAAdAAAAABAE)
 
 ### Current Projects  
 🔭 I’m currently working on [Quiz App using React JS](https://github.com/AaryaTiwari1211/Quiz-App-React)
@@ -16,6 +13,7 @@
 
 <br/>  
 
+![luffysmile](https://user-images.githubusercontent.com/97940901/220966341-2e3551a4-945e-448a-b30c-bdb910437468.gif)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
