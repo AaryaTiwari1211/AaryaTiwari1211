@@ -8,9 +8,8 @@
 
 🔭 Also working on [Keyword Extraction Tool Website](https://github.com/AaryaTiwari1211/KeywordExtractionTool)
 
-<div align='center'>
-  ![luffysmile](https://user-images.githubusercontent.com/97940901/220966566-834c86b5-07b1-4977-abf3-fccc242bf191.gif)
-</div>
+
+![luffysmile](https://user-images.githubusercontent.com/97940901/220966566-834c86b5-07b1-4977-abf3-fccc242bf191.gif)
 
 
 <br/>  
