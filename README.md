@@ -4,7 +4,7 @@
 
 
 ### Current Projects  
-🔭 I’m currently working on [Quiz App using React JS](https://github.com/AaryaTiwari1211/Quiz-App-React)
+🔭 I’m currently working on [Debate App Full Stack](https://github.com/AaryaTiwari1211/DebateApp)
 
 🔭 Also working on [Keyword Extraction Tool Website](https://github.com/AaryaTiwari1211/KeywordExtractionTool)
 
