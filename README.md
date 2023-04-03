@@ -1,5 +1,5 @@
 ### About Me  
-### <div align="center">I'm Aarya, a full-stack web developer, I am currently indulging towards React JS and Material UI along with FireBase as Backend.</div>  
+### <div align="center">Hello I am Aarya, a full-stack web developer, I am currently indulging towards React JS and Material UI along with FireBase as Backend.</div>  
 
 
 
