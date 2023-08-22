@@ -103,12 +103,12 @@
 
 <div style="display:flex;flex-direction:column;">
   <p>
-    <img align="left" src="https://github-readme-stats-76aulxeda-aaryatiwari1211.vercel.app/api/top-langs?username=aaryatiwari1211&show_icons=true&locale=en&layout=compact" alt="aaryatiwari1211" />
+    <img align="left" src="https://github-readme-stats-three-swart-88.vercel.app/api/top-langs?username=aaryatiwari1211&show_icons=true&locale=en&layout=compact" alt="aaryatiwari1211" />
   </p>
 
   <p>
     &nbsp;
-    <img align="center" src="github-readme-stats-76aulxeda-aaryatiwari1211.vercel.app/api?username=aaryatiwari1211&show_icons=true&locale=en" alt="aaryatiwari1211" />
+    <img align="center" src="https://github-readme-stats-three-swart-88.vercel.app/api?username=aaryatiwari1211&show_icons=true&locale=en" alt="aaryatiwari1211" />
   </p>
   
   <p>
