@@ -110,9 +110,8 @@
     &nbsp;
     <img align="center" src="https://github-readme-stats-three-swart-88.vercel.app/api?username=aaryatiwari1211&show_icons=true&locale=en" alt="aaryatiwari1211" />
   </p>
-  
   <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryatiwari1211&" alt="aaryatiwari1211" />
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AaryaTiwari1211" alt="GitHub Streak" /></a>
   </p>
 </div>
 
